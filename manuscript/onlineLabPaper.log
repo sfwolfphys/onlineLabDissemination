@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.5)  18 AUG 2020 13:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.5)  18 AUG 2020 14:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -459,7 +459,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] 
 [3] [4] [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 111.
+(Font)              <10.95> on input line 117.
  [6] [7]
 (./onlineLabPaper.bbl [8]
 Underfull \hbox (badness 1147) in paragraph at lines 87--97
@@ -473,19 +473,19 @@ Underfull \hbox (badness 1917) in paragraph at lines 87--97
 r-gu-men-ta-tion and craft
  []
 
-) [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
+[9]) [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
  (./onlineLabPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
 Package rerunfilecheck Info: File `onlineLabPaper.out' has not changed.
-(rerunfilecheck)             Checksum: FA820DD0F182564A4C382253E4821569;715.
+(rerunfilecheck)             Checksum: 12A298E2212A205566560C7F1311E281;808.
  ) 
 Here is how much of TeX's memory you used:
- 10950 strings out of 480994
- 199409 string characters out of 5912143
- 478916 words of memory out of 5000000
- 26265 multiletter control sequences out of 15000+600000
+ 10953 strings out of 480994
+ 199441 string characters out of 5912143
+ 474918 words of memory out of 5000000
+ 26266 multiletter control sequences out of 15000+600000
  545297 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,14n,40p,1633b,992s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -503,10 +503,10 @@ l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texl
 ive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on onlineLabPaper.pdf (9 pages, 169781 bytes).
+Output written on onlineLabPaper.pdf (10 pages, 171115 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
