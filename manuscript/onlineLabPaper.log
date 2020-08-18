@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.9)  17 AUG 2020 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.7)  18 AUG 2020 13:11
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -151,17 +151,17 @@ LaTeX Info: Redefining \bm on input line 207.
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2019-09-05 L3 programming layer (loader) 
+Package: expl3 2019-05-28 L3 programming layer (loader) 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2019-09-05 L3 programming layer (code)
+Package: expl3 2019-05-28 L3 programming layer (code)
 \c_max_int=\count96
 \l_tmpa_int=\count97
 \l_tmpb_int=\count98
 \g_tmpa_int=\count99
 \g_tmpb_int=\count100
 \g__kernel_prg_map_int=\count101
-\c__ior_term_noprompt_ior=\count102
+\c__ior_term_ior=\count102
 \c_log_iow=\count103
 \l_iow_line_count_int=\count104
 \l__iow_line_target_int=\count105
@@ -212,53 +212,51 @@ Package: expl3 2019-09-05 L3 programming layer (code)
 \l__sort_A_int=\count131
 \l__sort_B_int=\count132
 \l__sort_C_int=\count133
-\l__str_internal_int=\count134
-\c__str_replacement_char_int=\count135
-\l__tl_analysis_normal_int=\count136
-\l__tl_analysis_index_int=\count137
-\l__tl_analysis_nesting_int=\count138
-\l__tl_analysis_type_int=\count139
-\l__regex_internal_a_int=\count140
-\l__regex_internal_b_int=\count141
-\l__regex_internal_c_int=\count142
-\l__regex_balance_int=\count143
-\l__regex_group_level_int=\count144
-\l__regex_mode_int=\count145
-\c__regex_cs_in_class_mode_int=\count146
-\c__regex_cs_mode_int=\count147
-\l__regex_catcodes_int=\count148
-\l__regex_default_catcodes_int=\count149
-\c__regex_catcode_D_int=\count150
-\c__regex_catcode_S_int=\count151
-\c__regex_catcode_L_int=\count152
-\c__regex_catcode_O_int=\count153
-\c__regex_catcode_A_int=\count154
-\c__regex_all_catcodes_int=\count155
-\l__regex_show_lines_int=\count156
-\l__regex_min_state_int=\count157
-\l__regex_max_state_int=\count158
-\l__regex_left_state_int=\count159
-\l__regex_right_state_int=\count160
-\l__regex_capturing_group_int=\count161
-\l__regex_min_pos_int=\count162
-\l__regex_max_pos_int=\count163
-\l__regex_curr_pos_int=\count164
-\l__regex_start_pos_int=\count165
-\l__regex_success_pos_int=\count166
-\l__regex_curr_char_int=\count167
-\l__regex_curr_catcode_int=\count168
-\l__regex_last_char_int=\count169
-\l__regex_case_changed_char_int=\count170
-\l__regex_curr_state_int=\count171
-\l__regex_step_int=\count172
-\l__regex_min_active_int=\count173
-\l__regex_max_active_int=\count174
-\l__regex_replacement_csnames_int=\count175
-\l__regex_match_count_int=\count176
-\l__regex_min_submatch_int=\count177
-\l__regex_submatch_int=\count178
-\l__regex_zeroth_submatch_int=\count179
-\g__regex_trace_regex_int=\count180
+\l__tl_analysis_normal_int=\count134
+\l__tl_analysis_index_int=\count135
+\l__tl_analysis_nesting_int=\count136
+\l__tl_analysis_type_int=\count137
+\l__regex_internal_a_int=\count138
+\l__regex_internal_b_int=\count139
+\l__regex_internal_c_int=\count140
+\l__regex_balance_int=\count141
+\l__regex_group_level_int=\count142
+\l__regex_mode_int=\count143
+\c__regex_cs_in_class_mode_int=\count144
+\c__regex_cs_mode_int=\count145
+\l__regex_catcodes_int=\count146
+\l__regex_default_catcodes_int=\count147
+\c__regex_catcode_D_int=\count148
+\c__regex_catcode_S_int=\count149
+\c__regex_catcode_L_int=\count150
+\c__regex_catcode_O_int=\count151
+\c__regex_catcode_A_int=\count152
+\c__regex_all_catcodes_int=\count153
+\l__regex_show_lines_int=\count154
+\l__regex_min_state_int=\count155
+\l__regex_max_state_int=\count156
+\l__regex_left_state_int=\count157
+\l__regex_right_state_int=\count158
+\l__regex_capturing_group_int=\count159
+\l__regex_min_pos_int=\count160
+\l__regex_max_pos_int=\count161
+\l__regex_curr_pos_int=\count162
+\l__regex_start_pos_int=\count163
+\l__regex_success_pos_int=\count164
+\l__regex_curr_char_int=\count165
+\l__regex_curr_catcode_int=\count166
+\l__regex_last_char_int=\count167
+\l__regex_case_changed_char_int=\count168
+\l__regex_curr_state_int=\count169
+\l__regex_step_int=\count170
+\l__regex_min_active_int=\count171
+\l__regex_max_active_int=\count172
+\l__regex_replacement_csnames_int=\count173
+\l__regex_match_count_int=\count174
+\l__regex_min_submatch_int=\count175
+\l__regex_submatch_int=\count176
+\l__regex_zeroth_submatch_int=\count177
+\g__regex_trace_regex_int=\count178
 \c_empty_box=\box44
 \l_tmpa_box=\box45
 \l_tmpb_box=\box46
@@ -302,20 +300,22 @@ Package: expl3 2019-09-05 L3 programming layer (code)
 \l__coffin_display_offset_dim=\dimen135
 \l__coffin_display_x_dim=\dimen136
 \l__coffin_display_y_dim=\dimen137
-\g__char_data_ior=\read1
-\l__seq_internal_a_int=\count181
-\l__seq_internal_b_int=\count182
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count179
+\l__seq_internal_b_int=\count180
+\c__deprecation_minus_one=\count181
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2019-04-06 v L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count183
-\l__pdf_internal_box=\box62
-)) (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_internal_box=\box62
+\l__driver_color_stack_int=\count182
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2019-05-28 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count184
-\g__xparse_grabber_int=\count185
-\l__xparse_m_args_int=\count186
-\l__xparse_v_nesting_int=\count187
+\l__xparse_current_arg_int=\count183
+\g__xparse_grabber_int=\count184
+\l__xparse_m_args_int=\count185
+\l__xparse_v_nesting_int=\count186
 )
 Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 
@@ -334,27 +334,27 @@ Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box63
 \l__siunitx_tmp_dim=\dimen139
-\l__siunitx_tmp_int=\count188
-\l__siunitx_number_mantissa_length_int=\count189
-\l__siunitx_number_uncert_length_int=\count190
-\l__siunitx_round_int=\count191
-\l__siunitx_process_decimal_int=\count192
-\l__siunitx_process_uncertainty_int=\count193
-\l__siunitx_process_fixed_int=\count194
-\l__siunitx_process_integer_min_int=\count195
-\l__siunitx_process_precision_int=\count196
-\l__siunitx_group_min_int=\count197
+\l__siunitx_tmp_int=\count187
+\l__siunitx_number_mantissa_length_int=\count188
+\l__siunitx_number_uncert_length_int=\count189
+\l__siunitx_round_int=\count190
+\l__siunitx_process_decimal_int=\count191
+\l__siunitx_process_uncertainty_int=\count192
+\l__siunitx_process_fixed_int=\count193
+\l__siunitx_process_integer_min_int=\count194
+\l__siunitx_process_precision_int=\count195
+\l__siunitx_group_min_int=\count196
 \l__siunitx_angle_marker_box=\box64
 \l__siunitx_angle_unit_box=\box65
 \l__siunitx_angle_marker_dim=\dimen140
 \l__siunitx_angle_unit_dim=\dimen141
-\l__siunitx_unit_int=\count198
-\l__siunitx_unit_denominator_int=\count199
-\l__siunitx_unit_numerator_int=\count266
-\l__siunitx_unit_prefix_int=\count267
-\l__siunitx_unit_prefix_base_int=\count268
-\l__siunitx_unit_prefix_gram_int=\count269
-\l__siunitx_number_product_int=\count270
+\l__siunitx_unit_int=\count197
+\l__siunitx_unit_denominator_int=\count198
+\l__siunitx_unit_numerator_int=\count199
+\l__siunitx_unit_prefix_int=\count266
+\l__siunitx_unit_prefix_base_int=\count267
+\l__siunitx_unit_prefix_gram_int=\count268
+\l__siunitx_number_product_int=\count269
 \c__siunitx_one_fill_skip=\skip54
 \l__siunitx_table_unit_align_skip=\skip55
 \l__siunitx_table_exponent_dim=\dimen142
@@ -376,7 +376,7 @@ Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2019/06/12 v6.88h Hypertext links for LaTeX
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
@@ -396,7 +396,7 @@ Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -427,53 +427,53 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen151
-\Hy@linkcounter=\count271
-\Hy@pagecounter=\count272
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2019/06/12 v6.88h Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count273
+\Hy@SavedSpaceFactor=\count272
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4424.
-Package hyperref Info: Hyper figures OFF on input line 4550.
-Package hyperref Info: Link nesting OFF on input line 4555.
-Package hyperref Info: Hyper index ON on input line 4558.
-Package hyperref Info: Plain pages OFF on input line 4565.
-Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4803.
-LaTeX Info: Redefining \href on input line 5067.
-\c@Hy@tempcnt=\count274
-LaTeX Info: Redefining \url on input line 5156.
+Package hyperref Info: Bookmarks ON on input line 4772.
+LaTeX Info: Redefining \href on input line 5036.
+\c@Hy@tempcnt=\count273
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen152
-\Fld@menulength=\count275
+\Fld@menulength=\count274
 \Field@Width=\dimen153
 \Fld@charsize=\dimen154
-Package hyperref Info: Hyper figures OFF on input line 6411.
-Package hyperref Info: Link nesting OFF on input line 6416.
-Package hyperref Info: Hyper index ON on input line 6419.
-Package hyperref Info: backreferencing OFF on input line 6426.
-Package hyperref Info: Link coloring ON on input line 6429.
-Package hyperref Info: Link coloring with OCG OFF on input line 6436.
-Package hyperref Info: PDF/A mode OFF on input line 6441.
-LaTeX Info: Redefining \ref on input line 6481.
-LaTeX Info: Redefining \pageref on input line 6485.
-\Hy@abspage=\count276
-\c@Item=\count277
-\c@Hfootnote=\count278
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2019/06/12 v6.88h Hyperref driver for pdfTeX
-\Fld@listcount=\count279
-\c@bookmark@seq@number=\count280
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -500,13 +500,13 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip59
 \enit@outerparindent=\dimen155
 \enit@toks=\toks19
 \enit@inbox=\box70
-\enit@count@id=\count281
-\enitdp@description=\count282
+\enit@count@id=\count280
+\enitdp@description=\count281
 )
 Class revtex4-2 Info: Unrecognized array package. Please update this document c
 lass! (Proceeding with fingers crossed.) on input line 13.
@@ -536,16 +536,16 @@ LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
+\scratchcounter=\count282
 \scratchdimen=\dimen156
 \scratchbox=\box71
-\nofMPsegments=\count284
-\nofMParguments=\count285
+\nofMPsegments=\count283
+\nofMParguments=\count284
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count286
+\MPscratchCnt=\count285
 \MPscratchDim=\dimen157
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
 \everyMPtoPDFconversion=\toks21
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -655,7 +655,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count289
+\c@section@level=\count288
 )
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
@@ -674,40 +674,52 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 13.
- [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+ [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
- [2] [3] [4]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+ [3] [4] [5]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 100.
+(Font)              <10.95> on input line 187.
 
-[5]
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 168.
+[6]
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 285.
 
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [6]
-(./onlineLabPaper.bbl) [7] [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
+) [7]
+(./onlineLabPaper.bbl [8]
+Underfull \hbox (badness 1147) in paragraph at lines 87--97
+[]\OT1/cmr/m/n/12 V. Samp-son, J. Grooms, and J. P. Walker, ``Argument-driven i
+n-quiry as a way
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 87--97
+\OT1/cmr/m/n/12 to help stu-dents learn how to par-tic-i-pate in sci-en-tific a
+r-gu-men-ta-tion and craft
+ []
+
+) [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
  (./onlineLabPaper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
 Package rerunfilecheck Info: File `onlineLabPaper.out' has not changed.
-(rerunfilecheck)             Checksum: CF5255C7442B083F3537E023E92F211A;745.
+(rerunfilecheck)             Checksum: 12A298E2212A205566560C7F1311E281;808.
  ) 
 Here is how much of TeX's memory you used:
- 20469 strings out of 492609
- 381638 string characters out of 6129049
- 454672 words of memory out of 5000000
- 24238 multiletter control sequences out of 15000+600000
+ 19993 strings out of 492609
+ 370799 string characters out of 6129049
+ 442660 words of memory out of 5000000
+ 23755 multiletter control sequences out of 15000+600000
  544960 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,14n,63p,1633b,992s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,14n,63p,554b,992s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -715,16 +727,17 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
 cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/
-texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on onlineLabPaper.pdf (8 pages, 156668 bytes).
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on onlineLabPaper.pdf (9 pages, 171316 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 171 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 

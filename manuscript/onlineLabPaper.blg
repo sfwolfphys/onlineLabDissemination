@@ -27,45 +27,45 @@ Control: year (1) truncated
 Control: production of eprint (0) enabled
 Warning--empty year in glowscript
 Warning--empty year in jstrack
-You've used 7 entries,
+You've used 13 entries,
             6039 wiz_defined-function locations,
-            1657 strings with 15869 characters,
-and the built_in function-call counts, 5094 in all, are:
-= -- 326
-> -- 128
-< -- 40
-+ -- 45
-- -- 46
-* -- 775
-:= -- 531
-add.period$ -- 10
-call.type$ -- 7
-change.case$ -- 26
-chr.to.int$ -- 9
-cite$ -- 9
-duplicate$ -- 499
-empty$ -- 304
-format.name$ -- 59
-if$ -- 901
+            1704 strings with 17451 characters,
+and the built_in function-call counts, 10953 in all, are:
+= -- 729
+> -- 303
+< -- 59
++ -- 100
+- -- 89
+* -- 1687
+:= -- 1167
+add.period$ -- 21
+call.type$ -- 13
+change.case$ -- 56
+chr.to.int$ -- 15
+cite$ -- 15
+duplicate$ -- 1034
+empty$ -- 741
+format.name$ -- 144
+if$ -- 2030
 int.to.chr$ -- 1
-int.to.str$ -- 14
-missing$ -- 71
-newline$ -- 67
-num.names$ -- 15
-pop$ -- 239
+int.to.str$ -- 20
+missing$ -- 135
+newline$ -- 85
+num.names$ -- 33
+pop$ -- 462
 preamble$ -- 1
-purify$ -- 23
+purify$ -- 53
 quote$ -- 0
-skip$ -- 169
+skip$ -- 352
 stack$ -- 0
-substring$ -- 107
-swap$ -- 457
-text.length$ -- 10
+substring$ -- 265
+swap$ -- 962
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 77
+type$ -- 157
 warning$ -- 3
-while$ -- 21
+while$ -- 42
 width$ -- 0
-write$ -- 94
+write$ -- 146
 (There were 3 warnings)
