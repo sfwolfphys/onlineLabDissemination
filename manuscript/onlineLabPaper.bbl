@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{11}%
+\begin{thebibliography}{13}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -119,6 +119,35 @@
   {https://doi.org/10.1039/C6RP00093B} {\bibfield  {journal} {\bibinfo
   {journal} {Chem. Educ. Res. Pract.}\ }\textbf {\bibinfo {volume} {17}},\
   \bibinfo {pages} {1098--1113} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wolf}\ \emph {et~al.}(2019)\citenamefont {Wolf},
+  \citenamefont {Sprague}, \citenamefont {Li}, \citenamefont {Smith-Joyner},\
+  and\ \citenamefont {Walker}}]{Wolf2019}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Wolf}}, \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Sprague}},
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Li}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Smith-Joyner}},\ and\ \bibinfo {author}
+  {\bibfnamefont {J.~P.}\ \bibnamefont {Walker}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Introductory physics laboratory practical exam
+  development: Investigation design, explanation, and argument},}\ }in\
+  \href@noop {} {\emph {\bibinfo {booktitle} {Physics Education Research
+  Conference 2019}}},\ \bibinfo {series and number} {PER Conference}\ (\bibinfo
+  {address} {Provo, UT},\ \bibinfo {year} {2019})\ pp.\ \bibinfo {pages}
+  {657--663}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Walker}, \citenamefont {Van~Duzor},\ and\
+  \citenamefont {Lower}(2019)}]{Walker2019}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
+  {Walker}}, \bibinfo {author} {\bibfnamefont {A.~G.}\ \bibnamefont
+  {Van~Duzor}},\ and\ \bibinfo {author} {\bibfnamefont {M.~A.}\ \bibnamefont
+  {Lower}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Facilitating
+  argumentation in the laboratory: The challenges of claim change and
+  justification by theory},}\ }\href
+  {https://doi.org/10.1021/acs.jchemed.8b00745} {\bibfield  {journal} {\bibinfo
+   {journal} {Journal of Chemical Education}\ }\textbf {\bibinfo {volume}
+  {96}},\ \bibinfo {pages} {435--444} (\bibinfo {year} {2019})},\ \Eprint
+  {https://arxiv.org/abs/https://doi.org/10.1021/acs.jchemed.8b00745}
+  {https://doi.org/10.1021/acs.jchemed.8b00745} \BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Schneider}, \citenamefont {Rasband},\ and\
   \citenamefont {Eliceiri}(2012)}]{schrasetal12}%
   \BibitemOpen
