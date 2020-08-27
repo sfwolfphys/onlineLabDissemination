@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{13}%
+\begin{thebibliography}{16}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -119,11 +119,38 @@
   {https://doi.org/10.1039/C6RP00093B} {\bibfield  {journal} {\bibinfo
   {journal} {Chem. Educ. Res. Pract.}\ }\textbf {\bibinfo {volume} {17}},\
   \bibinfo {pages} {1098--1113} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kozminski}\ \emph {et~al.}(2014)\citenamefont
+  {Kozminski}, \citenamefont {Lewandowski}, \citenamefont {Beverly},
+  \citenamefont {Lindaas}, \citenamefont {Deardorff}, \citenamefont {Reagan},
+  \citenamefont {Dietz}, \citenamefont {Tagg}, \citenamefont {Williams},
+  \citenamefont {Hobbs} \emph {et~al.}}]{kozminski2014aapt}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Kozminski}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Lewandowski}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
+  {Beverly}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Lindaas}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Deardorff}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Reagan}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Dietz}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Tagg}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Williams}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Hobbs}},
+  \emph {et~al.},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Aapt
+  recommendations for the undergraduate physics laboratory curriculum},}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {American
+  Association of Physics Teachers}\ }\textbf {\bibinfo {volume} {29}} (\bibinfo
+  {year} {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Smith-Joyner}\ and\ \citenamefont
+  {Walker}()}]{SmithJoyner2020}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Smith-Joyner}}\ and\ \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
+  {Walker}},\ }\href@noop {} {}\bibinfo {howpublished} {personal
+  communication}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Wolf}\ \emph {et~al.}(2019)\citenamefont {Wolf},
   \citenamefont {Sprague}, \citenamefont {Li}, \citenamefont {Smith-Joyner},\
   and\ \citenamefont {Walker}}]{Wolf2019}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~F.}\ \bibnamefont
   {Wolf}}, \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Sprague}},
   \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Li}}, \bibinfo {author}
   {\bibfnamefont {A.}~\bibnamefont {Smith-Joyner}},\ and\ \bibinfo {author}
@@ -178,13 +205,6 @@
   {https://www.glowscript.org} {\enquote {\bibinfo {title} {Glowscript.org},}\
   }\bibinfo {howpublished} {\url{https://www.glowscript.org}},\ \bibinfo {note}
   {{Referenced} 2020-08-16}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Demian}()}]{jstrack}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
-  {Demian}},\ }\href@noop {} {\enquote {\bibinfo {title} {Motion tracking made
-  simple},}\ }\bibinfo {howpublished}
-  {\url{https://jst.lucademian.com/info/}},\ \bibinfo {note} {{Referenced}
-  2020-08-16}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {McLoon}\ and\ \citenamefont
   {Berke}(2020)}]{mclber20}%
   \BibitemOpen
@@ -196,4 +216,23 @@
   \bibinfo {note} {published online at
   \url{https://www.insidehighered.com/views/2020/08/03/lessons-college-has-practiced-having-socially-distant-classes-opinion}}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Edwards}, \citenamefont {Francia},\ and\
+  \citenamefont {Van~Willigen}(2020)}]{ECUcovidSurvey}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Edwards}}, \bibinfo {author} {\bibfnamefont {P.~L.}\ \bibnamefont
+  {Francia}},\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Van~Willigen}},\ }\href
+  {https://surveyresearch.ecu.edu/wp-content/pv-uploads/sites/315/2018/06/ECU-Covid-19-Impact-Survey-Report-Students-FINAL-version-8.24.2020.pdf}
+  {\enquote {\bibinfo {title} {Ecu covid-19 impact survey: Reopening impacts on
+  students and student adherence to pandemic protective practices.}}\ }\bibinfo
+  {type} {Tech. Rep.}\ (\bibinfo  {institution} {ECU Center for Survey
+  Research},\ \bibinfo {year} {2020})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Demian}()}]{jstrack}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Demian}},\ }\href@noop {} {\enquote {\bibinfo {title} {Motion tracking made
+  simple},}\ }\bibinfo {howpublished}
+  {\url{https://jst.lucademian.com/info/}},\ \bibinfo {note} {{Referenced}
+  2020-08-16}\BibitemShut {NoStop}%
 \end{thebibliography}%
