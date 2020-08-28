@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{16}%
+\begin{thebibliography}{13}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,34 +50,6 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Singer}, \citenamefont {Nielsen},\ and\ \citenamefont
-  {Schweingruber}(2012)}]{DBERreport}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~R.}\ \bibnamefont
-  {Singer}}, \bibinfo {author} {\bibfnamefont {N.~R.}\ \bibnamefont
-  {Nielsen}},\ and\ \bibinfo {author} {\bibfnamefont {H.~A.}\ \bibnamefont
-  {Schweingruber}},\ }\href@noop {} {\emph {\bibinfo {title} {{Discipline-based
-  education research: Understanding and improving learning in undergraduate
-  science and engineering}}}}\ (\bibinfo  {publisher} {National Academies
-  Press},\ \bibinfo {year} {2012})\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {{President's Council of Advisors on Science and
-  Technology}}(2012)}]{PCAST12}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{President's Council of
-  Advisors on Science and Technology}}},\ }\href@noop {} {\enquote {\bibinfo
-  {title} {{Engage to Excel: Producing One Million Additional College Graduates
-  with Degrees in Science, Technology, Engineering, and Mathematics. Report to
-  the President.}}}\ }\bibinfo {type} {Tech. Rep.}\ (\bibinfo  {institution}
-  {Executive Office of the President},\ \bibinfo {year} {2012})\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {{American Association for the Advancement of
-  Science}}(1881)}]{AAAS1881}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{American Association
-  for the Advancement of Science}}},\ }\href@noop {} {\enquote {\bibinfo
-  {title} {{Report on Committee on Science Teaching in the Public Schools}},}\
-  } (\bibinfo {year} {1881}),\ \bibinfo {pages} {1--12}\ pp.\BibitemShut
-  {Stop}%
 \bibitem [{\citenamefont {Sampson}, \citenamefont {Grooms},\ and\ \citenamefont
   {Walker}(2011)}]{Sampson2011}%
   \BibitemOpen
@@ -175,27 +147,6 @@
   {96}},\ \bibinfo {pages} {435--444} (\bibinfo {year} {2019})},\ \Eprint
   {https://arxiv.org/abs/https://doi.org/10.1021/acs.jchemed.8b00745}
   {https://doi.org/10.1021/acs.jchemed.8b00745} \BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Schneider}, \citenamefont {Rasband},\ and\
-  \citenamefont {Eliceiri}(2012)}]{schrasetal12}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont
-  {Schneider}}, \bibinfo {author} {\bibfnamefont {W.~S.}\ \bibnamefont
-  {Rasband}},\ and\ \bibinfo {author} {\bibfnamefont {K.~W.}\ \bibnamefont
-  {Eliceiri}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {{NIH} {Image}
-  to {ImageJ}: 25 years of image analysis},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Nature Methods}\ }\textbf {\bibinfo {volume}
-  {9}},\ \bibinfo {pages} {671--675} (\bibinfo {year} {2012})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Brown}(2009)}]{bro2009}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
-  {Brown}},\ }\href
-  {https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}
-  {\enquote {\bibinfo {title} {Video modeling with tracker},}\ } (\bibinfo
-  {year} {2009}),\ \bibinfo {note} {{American Association of Physics Teachers
-  2009 Summer Meeting}. Available at
-  \url{https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}}\BibitemShut
-  {NoStop}%
 \bibitem [{\citenamefont {Chabay}, \citenamefont {Scherer},\ and\ \citenamefont
   {Sherwood}()}]{glowscript}%
   \BibitemOpen
@@ -216,18 +167,38 @@
   \bibinfo {note} {published online at
   \url{https://www.insidehighered.com/views/2020/08/03/lessons-college-has-practiced-having-socially-distant-classes-opinion}}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Brown}(2009)}]{bro2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Brown}},\ }\href
+  {https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}
+  {\enquote {\bibinfo {title} {Video modeling with tracker},}\ } (\bibinfo
+  {year} {2009}),\ \bibinfo {note} {{American Association of Physics Teachers
+  2009 Summer Meeting}. Available at
+  \url{https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Schneider}, \citenamefont {Rasband},\ and\
+  \citenamefont {Eliceiri}(2012)}]{schrasetal12}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.~A.}\ \bibnamefont
+  {Schneider}}, \bibinfo {author} {\bibfnamefont {W.~S.}\ \bibnamefont
+  {Rasband}},\ and\ \bibinfo {author} {\bibfnamefont {K.~W.}\ \bibnamefont
+  {Eliceiri}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {{NIH} {Image}
+  to {ImageJ}: 25 years of image analysis},}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Nature Methods}\ }\textbf {\bibinfo {volume}
+  {9}},\ \bibinfo {pages} {671--675} (\bibinfo {year} {2012})}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Edwards}, \citenamefont {Francia},\ and\
-  \citenamefont {Van~Willigen}(2020)}]{ECUcovidSurvey}%
+  \citenamefont {Van~Willigen}(2020)}]{ECUcovidSurveyRedacted}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
   {Edwards}}, \bibinfo {author} {\bibfnamefont {P.~L.}\ \bibnamefont
   {Francia}},\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
-  {Van~Willigen}},\ }\href
-  {https://surveyresearch.ecu.edu/wp-content/pv-uploads/sites/315/2018/06/ECU-Covid-19-Impact-Survey-Report-Students-FINAL-version-8.24.2020.pdf}
-  {\enquote {\bibinfo {title} {Ecu covid-19 impact survey: Reopening impacts on
-  students and student adherence to pandemic protective practices.}}\ }\bibinfo
-  {type} {Tech. Rep.}\ (\bibinfo  {institution} {ECU Center for Survey
-  Research},\ \bibinfo {year} {2020})\BibitemShut {NoStop}%
+  {Van~Willigen}},\ }\href@noop {} {\enquote {\bibinfo {title} {\emph{Regional
+  State University} {Covid-19} impact survey: Reopening impacts on students and
+  student adherence to pandemic protective practices.}}\ }\bibinfo {type}
+  {Tech. Rep.}\ (\bibinfo  {institution} {Regional State University Center for
+  Survey Research},\ \bibinfo {year} {2020})\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Demian}()}]{jstrack}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
