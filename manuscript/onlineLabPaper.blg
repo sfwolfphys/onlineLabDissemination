@@ -1,5 +1,5 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: onlineLabPaper.aux
 The style file: aipnum4-2.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -40,43 +40,43 @@ while executing---line 3484 of file aipnum4-2.bst
 Warning--empty year in jstrack
 You've used 15 entries,
             6039 wiz_defined-function locations,
-            1722 strings with 18137 characters,
-and the built_in function-call counts, 14778 in all, are:
-= -- 929
-> -- 476
-< -- 84
-+ -- 149
-- -- 134
-* -- 2371
-:= -- 1497
-add.period$ -- 25
+            1717 strings with 17912 characters,
+and the built_in function-call counts, 13914 in all, are:
+= -- 890
+> -- 440
+< -- 77
++ -- 140
+- -- 125
+* -- 2217
+:= -- 1438
+add.period$ -- 24
 call.type$ -- 15
 change.case$ -- 66
 chr.to.int$ -- 17
 cite$ -- 18
-duplicate$ -- 1374
-empty$ -- 1000
-format.name$ -- 239
-if$ -- 2805
+duplicate$ -- 1291
+empty$ -- 929
+format.name$ -- 219
+if$ -- 2615
 int.to.chr$ -- 1
 int.to.str$ -- 22
-missing$ -- 176
+missing$ -- 166
 newline$ -- 91
 num.names$ -- 39
-pop$ -- 575
+pop$ -- 559
 preamble$ -- 1
 purify$ -- 62
 quote$ -- 0
-skip$ -- 460
+skip$ -- 433
 stack$ -- 0
-substring$ -- 341
-swap$ -- 1338
-text.length$ -- 44
+substring$ -- 314
+swap$ -- 1246
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 199
+type$ -- 195
 warning$ -- 4
-while$ -- 51
+while$ -- 49
 width$ -- 0
-write$ -- 165
+write$ -- 163
 (There were 5 error messages)

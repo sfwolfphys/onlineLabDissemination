@@ -118,21 +118,11 @@
   {Smith-Joyner}}\ and\ \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
   {Walker}},\ }\href@noop {} {}\bibinfo {howpublished} {personal
   communication}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Wolf}\ \emph {et~al.}(2019)\citenamefont {Wolf},
-  \citenamefont {Sprague}, \citenamefont {Li}, \citenamefont {Smith-Joyner},\
-  and\ \citenamefont {Walker}}]{Wolf2019}%
+\bibitem [{\citenamefont {{First Author, et.al.}}(2019)}]{Wolf2019mask}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~F.}\ \bibnamefont
-  {Wolf}}, \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Sprague}},
-  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Li}}, \bibinfo {author}
-  {\bibfnamefont {A.}~\bibnamefont {Smith-Joyner}},\ and\ \bibinfo {author}
-  {\bibfnamefont {J.~P.}\ \bibnamefont {Walker}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Introductory physics laboratory practical exam
-  development: Investigation design, explanation, and argument},}\ }in\
-  \href@noop {} {\emph {\bibinfo {booktitle} {Physics Education Research
-  Conference 2019}}},\ \bibinfo {series and number} {PER Conference}\ (\bibinfo
-  {address} {Provo, UT},\ \bibinfo {year} {2019})\ pp.\ \bibinfo {pages}
-  {657--663}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{First Author,
+  et.al.}}},\ }\href@noop {} {} (\bibinfo {year} {2019}),\ \bibinfo {note}
+  {details redacted for review}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Walker}, \citenamefont {Van~Duzor},\ and\
   \citenamefont {Lower}(2019)}]{Walker2019}%
   \BibitemOpen
