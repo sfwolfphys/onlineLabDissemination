@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: onlineLabPaper.aux
+The top-level auxiliary file: supplement.aux
 The style file: aipnum4-2.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -10,13 +10,11 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Database file #1: onlineLabPaperNotes.bib
+Database file #1: supplementNotes.bib
 Database file #2: onlinelabs.bib
 control{REVTEX42Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
 control{aip41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{0}, control.pages{1}, control.year{N/A}, control.eprint{N/A}, 
 Warning--jnrlst (dependency: not reversed) set 1
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3278 of file aipnum4-2.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 aipnum4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
@@ -29,54 +27,46 @@ Control: year (1) truncated
 Control: production of eprint (0) enabled
 Warning--empty year in SmithJoyner2020
 Warning--empty year in glowscript
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
 Warning--empty year in jstrack
-You've used 17 entries,
+You've used 9 entries,
             6039 wiz_defined-function locations,
-            1730 strings with 18606 characters,
-and the built_in function-call counts, 15212 in all, are:
-= -- 984
-> -- 463
-< -- 77
-+ -- 150
-- -- 131
-* -- 2390
-:= -- 1604
-add.period$ -- 27
-call.type$ -- 17
-change.case$ -- 76
-chr.to.int$ -- 19
-cite$ -- 20
-duplicate$ -- 1420
-empty$ -- 1038
-format.name$ -- 229
-if$ -- 2855
+            1671 strings with 16256 characters,
+and the built_in function-call counts, 7208 in all, are:
+= -- 458
+> -- 199
+< -- 49
++ -- 67
+- -- 64
+* -- 1103
+:= -- 746
+add.period$ -- 13
+call.type$ -- 9
+change.case$ -- 35
+chr.to.int$ -- 11
+cite$ -- 12
+duplicate$ -- 695
+empty$ -- 459
+format.name$ -- 97
+if$ -- 1320
 int.to.chr$ -- 1
-int.to.str$ -- 24
-missing$ -- 181
-newline$ -- 97
-num.names$ -- 45
-pop$ -- 620
+int.to.str$ -- 16
+missing$ -- 93
+newline$ -- 73
+num.names$ -- 21
+pop$ -- 316
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 32
 quote$ -- 0
-skip$ -- 480
+skip$ -- 238
 stack$ -- 0
-substring$ -- 341
-swap$ -- 1347
-text.length$ -- 38
+substring$ -- 161
+swap$ -- 643
+text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 218
+type$ -- 106
 warning$ -- 4
-while$ -- 55
+while$ -- 29
 width$ -- 0
-write$ -- 178
-(There were 5 error messages)
+write$ -- 109
+(There were 4 warnings)

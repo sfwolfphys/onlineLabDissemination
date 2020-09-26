@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{13}%
+\begin{thebibliography}{15}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,6 +50,49 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
+\bibitem [{\citenamefont {{Committee on Prospering in the Global Economy of the
+  21st Century: An Agenda for American Science and Technology, National Academy
+  of Sciences, National Academy of Engineering, Institute of
+  Medicine}}(2007)}]{national2007Rising}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Committee on
+  Prospering in the Global Economy of the 21st Century: An Agenda for American
+  Science and Technology, National Academy of Sciences, National Academy of
+  Engineering, Institute of Medicine}}},\ }\href
+  {http://www.nap.edu/openbook.php?record_id=11463} {\emph {\bibinfo {title}
+  {{Rising Above the Gathering Storm: Energizing and Employing America for a
+  Brighter Economic Future}}}}\ (\bibinfo  {publisher} {The National Academies
+  Press},\ \bibinfo {year} {2007})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{President's Council of Advisors on Science and
+  Technology}}(2012)}]{PCAST12}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{President's Council of
+  Advisors on Science and Technology}}},\ }\href@noop {} {\enquote {\bibinfo
+  {title} {{Engage to Excel: Producing One Million Additional College Graduates
+  with Degrees in Science, Technology, Engineering, and Mathematics. Report to
+  the President.}}}\ }\bibinfo {type} {Tech. Rep.}\ (\bibinfo  {institution}
+  {Executive Office of the President},\ \bibinfo {year} {2012})\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Kozminski}\ \emph {et~al.}(2014)\citenamefont
+  {Kozminski}, \citenamefont {Lewandowski}, \citenamefont {Beverly},
+  \citenamefont {Lindaas}, \citenamefont {Deardorff}, \citenamefont {Reagan},
+  \citenamefont {Dietz}, \citenamefont {Tagg}, \citenamefont {Williams},
+  \citenamefont {Hobbs} \emph {et~al.}}]{kozminski2014aapt}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Kozminski}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Lewandowski}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
+  {Beverly}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Lindaas}},
+  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Deardorff}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Reagan}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Dietz}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Tagg}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Williams}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Hobbs}},
+  \emph {et~al.},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Aapt
+  recommendations for the undergraduate physics laboratory curriculum},}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {American
+  Association of Physics Teachers}\ }\textbf {\bibinfo {volume} {29}} (\bibinfo
+  {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Sampson}, \citenamefont {Grooms},\ and\ \citenamefont
   {Walker}(2011)}]{Sampson2011}%
   \BibitemOpen
@@ -91,26 +134,6 @@
   {https://doi.org/10.1039/C6RP00093B} {\bibfield  {journal} {\bibinfo
   {journal} {Chem. Educ. Res. Pract.}\ }\textbf {\bibinfo {volume} {17}},\
   \bibinfo {pages} {1098--1113} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Kozminski}\ \emph {et~al.}(2014)\citenamefont
-  {Kozminski}, \citenamefont {Lewandowski}, \citenamefont {Beverly},
-  \citenamefont {Lindaas}, \citenamefont {Deardorff}, \citenamefont {Reagan},
-  \citenamefont {Dietz}, \citenamefont {Tagg}, \citenamefont {Williams},
-  \citenamefont {Hobbs} \emph {et~al.}}]{kozminski2014aapt}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Kozminski}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
-  {Lewandowski}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont
-  {Beverly}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Lindaas}},
-  \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Deardorff}}, \bibinfo
-  {author} {\bibfnamefont {A.}~\bibnamefont {Reagan}}, \bibinfo {author}
-  {\bibfnamefont {R.}~\bibnamefont {Dietz}}, \bibinfo {author} {\bibfnamefont
-  {R.}~\bibnamefont {Tagg}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
-  {Williams}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Hobbs}},
-  \emph {et~al.},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Aapt
-  recommendations for the undergraduate physics laboratory curriculum},}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {American
-  Association of Physics Teachers}\ }\textbf {\bibinfo {volume} {29}} (\bibinfo
-  {year} {2014})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Smith-Joyner}\ and\ \citenamefont
   {Walker}()}]{SmithJoyner2020}%
   \BibitemOpen
