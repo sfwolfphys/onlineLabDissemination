@@ -28,45 +28,45 @@ Control: production of eprint (0) enabled
 Warning--empty year in SmithJoyner2020
 Warning--empty year in glowscript
 Warning--empty year in jstrack
-You've used 9 entries,
+You've used 10 entries,
             6039 wiz_defined-function locations,
-            1671 strings with 16256 characters,
-and the built_in function-call counts, 7208 in all, are:
-= -- 458
+            1674 strings with 16419 characters,
+and the built_in function-call counts, 7465 in all, are:
+= -- 489
 > -- 199
 < -- 49
-+ -- 67
++ -- 69
 - -- 64
-* -- 1103
-:= -- 746
-add.period$ -- 13
-call.type$ -- 9
-change.case$ -- 35
-chr.to.int$ -- 11
-cite$ -- 12
-duplicate$ -- 695
-empty$ -- 459
+* -- 1136
+:= -- 779
+add.period$ -- 14
+call.type$ -- 10
+change.case$ -- 40
+chr.to.int$ -- 12
+cite$ -- 13
+duplicate$ -- 712
+empty$ -- 474
 format.name$ -- 97
-if$ -- 1320
+if$ -- 1367
 int.to.chr$ -- 1
-int.to.str$ -- 16
-missing$ -- 93
-newline$ -- 73
+int.to.str$ -- 17
+missing$ -- 94
+newline$ -- 76
 num.names$ -- 21
-pop$ -- 316
+pop$ -- 325
 preamble$ -- 1
-purify$ -- 32
+purify$ -- 36
 quote$ -- 0
-skip$ -- 238
+skip$ -- 248
 stack$ -- 0
-substring$ -- 161
-swap$ -- 643
+substring$ -- 175
+swap$ -- 656
 text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 106
+type$ -- 117
 warning$ -- 4
 while$ -- 29
 width$ -- 0
-write$ -- 109
+write$ -- 113
 (There were 4 warnings)

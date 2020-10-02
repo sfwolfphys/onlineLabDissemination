@@ -6,7 +6,7 @@
 %Control: page (1) range
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{7}%
+\begin{thebibliography}{8}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -72,6 +72,21 @@
   Conference 2019}}},\ \bibinfo {series and number} {PER Conference}\ (\bibinfo
   {address} {Provo, UT},\ \bibinfo {year} {2019})\ pp.\ \bibinfo {pages}
   {657--663}\BibitemShut {NoStop}%
+\bibitem [{Note1()}]{Note1}%
+  \BibitemOpen
+  \bibinfo {note} {Because we want our fit values to have uncertainties, we
+  have our students install the \protect \textit {Data Analysis Toolpack} if
+  they are using Excel.}\BibitemShut {Stop}%
+\bibitem [{\citenamefont {Brown}(2009)}]{bro2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Brown}},\ }\href
+  {https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}
+  {\enquote {\bibinfo {title} {Video modeling with tracker},}\ } (\bibinfo
+  {year} {2009}),\ \bibinfo {note} {{American Association of Physics Teachers
+  2009 Summer Meeting}. Available at
+  \url{https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Schneider}, \citenamefont {Rasband},\ and\
   \citenamefont {Eliceiri}(2012)}]{schrasetal12}%
   \BibitemOpen
@@ -82,16 +97,6 @@
   to {ImageJ}: 25 years of image analysis},}\ }\href@noop {} {\bibfield
   {journal} {\bibinfo  {journal} {Nature Methods}\ }\textbf {\bibinfo {volume}
   {9}},\ \bibinfo {pages} {671--675} (\bibinfo {year} {2012})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Brown}(2009)}]{bro2009}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
-  {Brown}},\ }\href
-  {https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}
-  {\enquote {\bibinfo {title} {Video modeling with tracker},}\ } (\bibinfo
-  {year} {2009}),\ \bibinfo {note} {{American Association of Physics Teachers
-  2009 Summer Meeting}. Available at
-  \url{https://physlets.org/tracker/download/AAPT_video_modeling_2009.pdf}}\BibitemShut
   {NoStop}%
 \bibitem [{\citenamefont {Chabay}, \citenamefont {Scherer},\ and\ \citenamefont
   {Sherwood}()}]{glowscript}%

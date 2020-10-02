@@ -27,16 +27,19 @@
 
 \maketitle
 
-\section{Curriculum development timeline}
-Talk about the curriculum development, and how departmental culture around the labs changed as
-a part of this transformation.
-
-
-
-
-
-
-
+This supplement is meant to accompany the paper, \textit{Introductory Physics Labs: A Tale of
+  Two Transformations} being submitted to \textit{The Physics Teacher}.  It is divided into the
+following sections:
+\begin{description}
+  \item[Additional Instructional Context] discusses some particulars of our department and
+  institution that can help the reader put the scope and population of the intervention into
+  context.
+  \item[Transformation \#1: Argument Driven Inquiry] provides a brief summary of each of the
+  experiments done in the face-to-face version of this lab course.
+  \item[Transformation \#2: Online delivery] provides a summary of how we adapted or created
+  new activities for students to do their labs online, and discusses some of the ways that we
+  supported authentic experimentation in this online environment.
+\end{description}
 
 \section{Additional instructional context}
 
@@ -114,21 +117,141 @@ implementation \citep{SmithJoyner2020} and assessment grading practices \citep{W
 \end{table}
 
 \section{Transformation \#1: Argument Driven Inquiry}
+In each of the sections below, we provide a brief summary of the ADI curriculum that we have
+implemented in our physics labs.  We will discuss the pre-lab reading, which students are
+expected to complete before they arrive in lab.  We also discuss the supplies that we use,
+especially when they are novel.  Every experiment requires a computer for data analysis.
+However, most supplies that we use are found in a typical college physics lab, although this
+isn't universally true.  (We do a radioactive decay lab that utilizes a PuBe neutron source.)
+We will also discuss some common approaches used by students in the activity.
+
+One last thing of note: Oftentimes, we have made choices that give students a significant
+hurdle to overcome (e.g., you can't neglect friction).  Student data should be messy.  There
+should be some things that are unclear.  When we teach physics labs, we can give our students
+the illusion that lab science is done by following well-known procedures and produce pristine
+data. However, the opposite can often be true. As you read some of these descriptions, you
+probably will think of 10 ways that the experiments could be done, ``better''---be it with
+different techniques or equipment.  That is the point.  We want to give students an idea to
+start with, and then give them the freedom to make changes, try things out, and figure out
+their own way of knowing.  
+
 \subsection{Physics \textrm{I} Investigation 1}
+\begin{description}
+  \item[Pre-lab reading] We provide a brief introduction to statistics, defining the terms
+  average, standard deviation, and standard error.  We also discuss how to calculate those
+  quantities in Excel.  We have a traditional discussion of how to use a ruler to measure
+  distances, and end with a brief introduction to free-fall.
+  \item[Pre-lab activity] We divide the room in half and have them measure the heights of all
+  students, comparing the average heights of the students on the ``right'' and on the ``left''
+  of the room.  We have them use a simple rule to compare their measurements, if the value
+  $\pm$ uncertainty (standard error) overlaps for these measurements, then the measurements
+  agree, otherwise, they disagree.
+  \item[Supplies of note] Meter sticks and 2-meter sticks.
+  \item[Argumentation Question] Do two people have the same reaction time?
+  \item[Common student approaches] Most students drop meter sticks and catch them.  They
+  measure the distance that the stick falls, and use the free-fall equation to relate distance
+  fallen to time in free-fall.  Some find one of the myriad apps out there that will measure
+  reaction time, such as the one at \url{https://humanbenchmark.com/}.  Note, not all apps are
+  created equal.  
+\end{description}
 
 \subsection{Physics \textrm{I} Investigation 2}
+\begin{description}
+  \item[Pre-lab reading] We talk about how ultrasonic motion detectors work (schematically, not
+  technically, and discuss how to calculate velocity from discrete position vs. time data. We
+  finally discuss linear regression, how to interpret it on a basic level, and how it can be
+  calculated in Excel.\footnote{Because we want our fit values to have uncertainties, we have
+    our students install the \textit{Data Analysis Toolpack} if they are using Excel.}
+  \item[Pre-lab activity] We give the students a cart and a track, have them incline that
+  track, and have them measure the net force on the cart as it moves on the track.
+  \item[Supplies of note] Ultrasonic motion detector, various masses, carts (with fan
+  attachments), and a track.
+  \item[Argumentation Question] Does the force that the fan exerts depend on the mass of the
+  cart?
+  \item[Common student approaches] Students measure the net force of a cart moving on a flat
+  track under the influence of a fan several times, changing the mass of the cart each time.
+  One particular struggle that students have is that they do not take friction into account,
+  which is not negligible on this setup.
+\end{description}
 
 \subsection{Physics \textrm{I} Investigation 3}
+\begin{description}
+  \item[Pre-lab reading] We discuss strategies for linearizing non-linear data for well-known
+  cases.
+  \item[Pre-lab activity] We have the students measure the period of oscillation for a mass
+  spring system, linearizing the data two ways, and comparing the spring constant for each of
+  these analyses.
+  \item[Supplies of note] Masses, springs, hangars, and a coiled snake (a spring with a
+  non-negligible mass).
+  \item[Argumentation Question] When does the spring's mass matter?
+  \item[Common student approaches] Students use the traditional measure the time of 10
+  oscillations and divide approach.  Other than that, experimental approaches are fairly
+  uniform.  Different approaches to student analysis techniques are common and encouraged.
+\end{description}
 
 \subsection{Physics \textrm{I} Investigation 4}
+\begin{description}
+  \item[Pre-lab reading] We discuss collisions, and define momentum and kinetic energy.
+  \item[Pre-lab activity] We have students analyze the motion of two objects on a video.  We
+  have students use \textit{Tracker}\citep{bro2009} to quantify that motion.  Students then
+  compare the motion of those two objects.
+  \item[Supplies of note] Marbles and a meter stick.  And the students phones.  (We thought
+  about getting a video camera for students to use, but realized that students already had one,
+  and that camera already has a number of features built into it---such as picture
+  steadying---that getting our own wasn't worth the effort.)
+  \item[Argumentation Question] Is the collision between two marbles elastic?
+  \item[Common student approaches] Students simply let marbles collide and videotape the
+  action. Many of the problems here are on the data analysis end.  Friction is a killer here,
+  and is an issue that students deal with differently in their data analyses.
+\end{description}
 
 \subsection{Physics \textrm{II} Investigation 1}
+\begin{description}
+  \item[Pre-lab reading] We review current, voltage, and resistance.  We also discuss how to
+  use a multimeter.
+  \item[Pre-lab activity] Measure the I-V curve of a resistor.
+  \item[Supplies of note] Multimeters (2), lightbulb, resistor, power supply.
+  \item[Argumentation Question] Does a lightbulb behave like a resistor?
+  \item[Common student approaches] Students measure an I-V curve.  Sometimes the data is
+  sort-of linear $(R^2\sim 0.9)$, and students have to deal with that.
+\end{description}
 
 \subsection{Physics \textrm{II} Investigation 2}
+\begin{description}
+  \item[Pre-lab reading] Students read about capacitance and voltage and are reminded
+  \item[Pre-lab activity] Students measure the time constant for a RC circuit.
+  \item[Supplies of note] We have created several RC circuit kits that are integrated so that
+  the time constant is similar for all of the circuits without the bulb, then students can
+  throw a switch to add a bulb to the circuit in series.  When added into the circuit, some of
+  the bulbs light up, others do not. Multimeter, timer, power supply.
+  \item[Argumentation Question] How does adding a light bulb in series change the behavior of a
+  RC circuit?
+  \item[Common student approaches] Measure the time constant for their kit.  See if $\tau$
+  changes from the prelab.
+\end{description}
 
 \subsection{Physics \textrm{II} Investigation 3}
+\begin{description}
+  \item[Pre-lab reading] Students get a reading about diffraction and Babinet's principle.
+  \item[Pre-lab activity] Students use one laser of known wavelength to measure a slit's width,
+  then they use the same slit to measure the wavelength of an unknown laser.
+  \item[Supplies of note] Optical bench, slit, lasers, screen.
+  \item[Argumentation Question] Are hairs from different people the same diameter?
+  \item[Common student approaches] Measure diffraction pattern of two hairs, use that to find
+  the thickness of each and compare.
+\end{description}
 
 \subsection{Physics \textrm{II} Investigation 4}
+\begin{description}
+  \item[Pre-lab reading] Discussion of nuclear decay and Geiger counters.
+  \item[Pre-lab activity] Students measure the ``decay constant'' of dice.
+  \item[Supplies of note] We use a PuBe source to irradiate some copper pennies, and a geiger
+  counter to measure the decay.
+  \item[Argumentation Question] What isotope is most common in the nuclear decay of a penny?
+  \item[Common student approaches] Students set up an appropriate enclosure and collect nuclear
+  activity data.  The issue here is that copper has a double decay (two common isotopes), and
+  the answer isn't straightforward.
+\end{description}
 
 
 \section{Transformation \#2: Online Adaptation}
@@ -178,7 +301,7 @@ application\citep{schrasetal12} to measure distances in a photograph.
 
 Each group was required to complete its analysis and create a three-slide presentation for the
 argumentation session the following week. The first slide was a description of their
-measurements. Te second slide was a presentation of the results, including a graph or table,
+measurements. The second slide was a presentation of the results, including a graph or table,
 and the third slide was their argument, based on their result.
 
 The argumentation session was held in a Cisco WebEx session during the lab session the week
