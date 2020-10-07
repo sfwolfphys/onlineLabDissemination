@@ -30,43 +30,43 @@ Warning--empty year in glowscript
 Warning--empty year in jstrack
 You've used 10 entries,
             6039 wiz_defined-function locations,
-            1674 strings with 16419 characters,
-and the built_in function-call counts, 7465 in all, are:
-= -- 489
-> -- 199
-< -- 49
-+ -- 69
-- -- 64
-* -- 1136
-:= -- 779
-add.period$ -- 14
+            1669 strings with 16194 characters,
+and the built_in function-call counts, 6601 in all, are:
+= -- 450
+> -- 163
+< -- 42
++ -- 60
+- -- 55
+* -- 982
+:= -- 720
+add.period$ -- 13
 call.type$ -- 10
 change.case$ -- 40
 chr.to.int$ -- 12
 cite$ -- 13
-duplicate$ -- 712
-empty$ -- 474
-format.name$ -- 97
-if$ -- 1367
+duplicate$ -- 629
+empty$ -- 403
+format.name$ -- 77
+if$ -- 1177
 int.to.chr$ -- 1
 int.to.str$ -- 17
-missing$ -- 94
+missing$ -- 84
 newline$ -- 76
 num.names$ -- 21
-pop$ -- 325
+pop$ -- 309
 preamble$ -- 1
 purify$ -- 36
 quote$ -- 0
-skip$ -- 248
+skip$ -- 221
 stack$ -- 0
-substring$ -- 175
-swap$ -- 656
-text.length$ -- 18
+substring$ -- 148
+swap$ -- 564
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 117
+type$ -- 113
 warning$ -- 4
-while$ -- 29
+while$ -- 27
 width$ -- 0
-write$ -- 113
+write$ -- 111
 (There were 4 warnings)
