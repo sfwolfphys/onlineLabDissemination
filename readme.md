@@ -2,9 +2,17 @@
 
 Authors:  SFW and MWS
 
-This is the online repository for the paper on online labs that we want to write for _The Physics Teacher_.
+In general, we are doing a good bit of dissemination with online laboratories. This will be the home for that work. Items in this repository (will) include:
+
+- TPT Online lab paper
+- Seminar we gave to the PICUP community
+- Seminar we (will) give to ECU community
+- Workshop that Steve gives to NCS-AAPT
+
+Below are some notes about TPT and getting things published there.
 
 ## TPT pages and resources
+This is the online repository for the paper on online labs that we want to write for _The Physics Teacher_.
 
 - [TPT Author guideline page](https://www.aapt.org/publications/tptauthors.cfm)
 - Paper length limitation:
@@ -12,7 +20,7 @@ This is the online repository for the paper on online labs that we want to write
 > Papers published in The Physics Teacher are generally quite short compared to those appearing in many other journals. Manuscripts should normally not exceed 2000 words. Occasionally, a longer manuscript of up to 4000 words (3000 words with pictures and diagrams) may be considered. However, the author must first submit a brief description and an outline for preliminary approval. These should be accompanied by a statement explaining why the material requiring the additional page space would be useful and interesting enough to readers to warrant publication.
 
 
-## Questions/answers
+### Questions/answers
 
 - Does TPT have a LaTeX style guide? One is not specifically mentioned:
 
