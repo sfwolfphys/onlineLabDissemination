@@ -7,7 +7,7 @@ In general, we are doing a good bit of dissemination with online laboratories. T
 - TPT Online lab paper
 - Seminar we gave to the PICUP community
 - Seminar we (will) give to ECU community
-- Workshop that Steve gives to NCS-AAPT
+- Workshop that Steve gave to NCS-AAPT
 
 Below are some notes about TPT and getting things published there.
 
