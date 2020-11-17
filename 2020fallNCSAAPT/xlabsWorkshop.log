@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.7)  7 NOV 2020 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.7)  16 NOV 2020 17:18
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -803,28 +803,7 @@ Grid set 16 x 16 = 22.7622pt x 17.07166pt
 \TP@tbargs=\toks50
 \TP@prevdepth=\dimen294
 TextBlockOrigin set to 0pt x 0pt
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerthemeAnnArbor.sty
-
-! LaTeX Error: Option clash for package beamerinnerthemerounded.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 \useinnertheme[shadow=true]{rounded}
-                                         
-The package beamerinnerthemerounded has already been loaded with options:
-  [shadow]
-There has now been an attempt to load it with options
-  [shadow=true]
-Adding the global options:
-  shadow,shadow=true
-to your \documentclass declaration may fix this.
-Try typing  <return>  to proceed.
-
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamercolorthemewolverine.
-sty))) (/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2019-05-28 L3 programming layer (loader) 
 
@@ -1556,11 +1535,11 @@ Package rerunfilecheck Info: File `xlabsWorkshop.out' has not changed.
 (rerunfilecheck)             Checksum: 10F0A0996B99A43E9730E5F9B1F8ED12;234.
  ) 
 Here is how much of TeX's memory you used:
- 30809 strings out of 492609
- 613906 string characters out of 6129049
- 665375 words of memory out of 5000000
- 34164 multiletter control sequences out of 15000+600000
- 543496 words of font info for 65 fonts, out of 8000000 for 9000
+ 30797 strings out of 492609
+ 613347 string characters out of 6129049
+ 665103 words of memory out of 5000000
+ 34158 multiletter control sequences out of 15000+600000
+ 544100 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,18n,70p,780b,973s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
@@ -1570,12 +1549,12 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
 sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/l
 ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb>
-Output written on xlabsWorkshop.pdf (20 pages, 3888711 bytes).
+Output written on xlabsWorkshop.pdf (20 pages, 3889725 bytes).
 PDF statistics:
  732 PDF objects out of 1000 (max. 8388607)
  642 compressed objects within 7 object streams

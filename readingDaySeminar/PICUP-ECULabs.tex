@@ -1,4 +1,4 @@
-\documentclass[aspectratio=169]{beamer}
+\documentclass[aspectratio=169,shadow=true]{beamer}
 % \usepackage{beamerthemesplit} % Activate for custom appearance
 \usepackage{amsmath}
 \usepackage{siunitx}
@@ -6,8 +6,8 @@
 \usepackage{pdfpages}
 \usepackage[export]{adjustbox}
 \usetheme{Boadilla}
-\usecolortheme{seahorse}
-\usefonttheme[stillsansseriflarge]{serif}
+\usepackage{ecuPresentation}
+
 \title[ECU online labs]{Transition to online labs at ECU}
 \author[Sprague and Wolf]{Mark W.\ Sprague and Steven F.\ Wolf}
 \institute[ECU]{East Carolina University}
@@ -115,6 +115,7 @@
 %
 %\end{frame}
 
+{\nologo
 \begin{frame}
 \frametitle{Tools used in online lab delivery}
 \begin{center}
@@ -125,11 +126,12 @@
 \hline
 Canvas & \parbox[t]{2in}{\raggedright Material, Assignments, Quizzes, Discussions }& University LMS\\
 WebEx & \parbox[t]{2in}{\raggedright Class introduction, argumentation, group interactions (???)} & University supported\\
-Peergrade.io & \parbox[t]{2in}{\raggedright Online peer review} & \parbox[t]{2in}{\raggedright Anonymous reviews and feedback; better than Canvas}\\
+Canvas & \parbox[t]{2in}{\raggedright Online peer review} & \parbox[t]{2in}{\raggedright Anonymous reviews and feedback}\\
 Trinket.io & \parbox[t]{2in}{\raggedright Simulations embedded in Canvas} & Fine-grained control\\[3ex]
 \hline\hline
 \end{tabular}
 \end{center}
 \end{frame}
+}
 
 \end{document}
