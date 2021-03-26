@@ -37,7 +37,7 @@ I note that near the end of your manuscript you say:
 
 "Many students could not or did not attend the online WebEx sessions or participate with
 their assigned groups. Once they left campus, many students found they had increased
-work or school responsibilities (42:1 %) or additional family responsibilities (59:0 %).14 We removed non-participating students from groups and gave them an opportunity to make up their missed work asynchronously. Less than 50% of the students in the make-up groups completed their work."
+work or school responsibilities (42.1 %) or additional family responsibilities (59.0 %).14 We removed non-participating students from groups and gave them an opportunity to make up their missed work asynchronously. Less than 50% of the students in the make-up groups completed their work."
 
 Please consider elaborating a bit, indicating the variety of ways, and levels of success, that your department and campus attempted to accommodate their needs more expansively and to attend to the health and well-being of these students, as appropriate.
 
@@ -55,12 +55,5 @@ Reviewer #1 (REMARKS to AUTHOR(s)):
 
 See attachment ('Reviewer 1 Review Attachment 1.pdf')
 
-
-
-
 ---------------------------------------------------------------------
 
-
-
-
-This email message and any files transmitted with it contain confidential information. If you are not the intended recipient please notify the sender, delete this email and any attachments from your system, and destroy any copies you have made, electronic or otherwise.
