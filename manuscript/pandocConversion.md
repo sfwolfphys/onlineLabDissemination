@@ -9,6 +9,8 @@ Other citation styles exist (obviously). I downloaded this csl file from [citati
 
 - ***Acknowledgements*** section title is missing. Not sure how to fix. I don't have the desire to look more than I have (5 minutes)
 - Also ***Section numbering*** is broken.  I guess I'm putting those in manually too. (This can be done in MS Word/Libre Office by editing the style of `Heading 1` and `Heading 2`.  I can't make them align like I want them to (flush with the left margin), but whatever.
-- There is a ***weird sticky space*** (yes, that's my technical term) that shows up right before citation brackets.  I did a global find-replace to get rid of them.
+- ~There is a ***weird sticky space*** (yes, that's my technical term) that shows up right before citation brackets.  I did a global find-replace to get rid of them.~ Maybe this is an artifact when viewing with Libre Office. I will play with this a little later.
+- Hyperlinks don't show up.
+- Word's style is ugly. I suppose I could fix that with a reference document. There is a `--reference-docx=template.doc` argument to pandoc that could be fiddled with.
 
 I've been told that they can "work with" anything I give them in Word. So we are going to test that a bit.
