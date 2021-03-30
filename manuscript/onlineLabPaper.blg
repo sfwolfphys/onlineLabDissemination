@@ -38,45 +38,45 @@ while executing---line 3484 of file aipnum4-2.bst
 Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
 while executing---line 3484 of file aipnum4-2.bst
 Warning--empty year in jstrack
-You've used 17 entries,
+You've used 19 entries,
             6039 wiz_defined-function locations,
-            1730 strings with 18606 characters,
-and the built_in function-call counts, 15212 in all, are:
-= -- 984
-> -- 463
-< -- 77
-+ -- 150
-- -- 131
-* -- 2390
-:= -- 1604
-add.period$ -- 27
-call.type$ -- 17
-change.case$ -- 76
-chr.to.int$ -- 19
-cite$ -- 20
-duplicate$ -- 1420
-empty$ -- 1038
-format.name$ -- 229
-if$ -- 2855
+            1747 strings with 19069 characters,
+and the built_in function-call counts, 17145 in all, are:
+= -- 1136
+> -- 503
+< -- 84
++ -- 163
+- -- 140
+* -- 2673
+:= -- 1816
+add.period$ -- 31
+call.type$ -- 19
+change.case$ -- 86
+chr.to.int$ -- 21
+cite$ -- 22
+duplicate$ -- 1599
+empty$ -- 1187
+format.name$ -- 247
+if$ -- 3228
 int.to.chr$ -- 1
-int.to.str$ -- 24
-missing$ -- 181
-newline$ -- 97
-num.names$ -- 45
-pop$ -- 620
+int.to.str$ -- 26
+missing$ -- 204
+newline$ -- 103
+num.names$ -- 51
+pop$ -- 692
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 82
 quote$ -- 0
-skip$ -- 480
+skip$ -- 545
 stack$ -- 0
-substring$ -- 341
-swap$ -- 1347
-text.length$ -- 38
+substring$ -- 412
+swap$ -- 1514
+text.length$ -- 41
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 218
+type$ -- 243
 warning$ -- 4
-while$ -- 55
+while$ -- 64
 width$ -- 0
-write$ -- 178
+write$ -- 197
 (There were 5 error messages)
