@@ -12,5 +12,6 @@ Other citation styles exist (obviously). I downloaded this csl file from [citati
 - ~There is a ***weird sticky space*** (yes, that's my technical term) that shows up right before citation brackets.  I did a global find-replace to get rid of them.~ Maybe this is an artifact when viewing with Libre Office. I will play with this a little later.
 - Hyperlinks don't show up.
 - Word's style is ugly. I suppose I could fix that with a reference document. There is a `--reference-docx=template.doc` argument to pandoc that could be fiddled with.
+- ***Author Institutions*** do not appear by default.
 
 I've been told that they can "work with" anything I give them in Word. So we are going to test that a bit.
