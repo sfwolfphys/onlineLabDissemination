@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: onlineLabPaper.aux
-The style file: aipnum4-2.bst
+The style file: apsrev4-2.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -10,73 +10,57 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: onlineLabPaperNotes.bib
 Database file #2: onlinelabs.bib
-control{REVTEX42Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
-control{aip41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{0}, control.pages{1}, control.year{N/A}, control.eprint{N/A}, 
-Warning--jnrlst (dependency: not reversed) set 1
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3278 of file aipnum4-2.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-aipnum4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
+apsrev4-2.bst 2019-01-14 (MD) hand-edited version of apsrev4-1.bst
 Control: key (0) 
-Control: author (8) initials jnrlst
+Control: author (72) initials jnrlst
 Control: editor formatted (1) identically to author
-Control: production of article title (0) allowed
-Control: page (1) range
+Control: production of article title (-1) disabled
+Control: page (0) single
 Control: year (1) truncated
 Control: production of eprint (0) enabled
-Warning--empty year in SmithJoyner2020
-Warning--empty year in glowscript
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
-Name 1 in "Edwards, Bob, and Francia, Peter L.\ and Van Willigen, Marieke" has a comma at the end for entry ECUcovidSurveyRedacted
-while executing---line 3484 of file aipnum4-2.bst
-Warning--empty year in jstrack
-You've used 19 entries,
-            6039 wiz_defined-function locations,
-            1747 strings with 19069 characters,
-and the built_in function-call counts, 17145 in all, are:
-= -- 1136
-> -- 503
-< -- 84
-+ -- 163
-- -- 140
-* -- 2673
-:= -- 1816
-add.period$ -- 31
-call.type$ -- 19
-change.case$ -- 86
-chr.to.int$ -- 21
-cite$ -- 22
-duplicate$ -- 1599
-empty$ -- 1187
-format.name$ -- 247
-if$ -- 3228
+You've used 17 entries,
+            6079 wiz_defined-function locations,
+            1752 strings with 19194 characters,
+and the built_in function-call counts, 15475 in all, are:
+= -- 1122
+> -- 381
+< -- 72
++ -- 128
+- -- 90
+* -- 2365
+:= -- 1552
+add.period$ -- 17
+call.type$ -- 17
+change.case$ -- 74
+chr.to.int$ -- 17
+cite$ -- 17
+duplicate$ -- 1423
+empty$ -- 1084
+format.name$ -- 225
+if$ -- 3052
 int.to.chr$ -- 1
-int.to.str$ -- 26
-missing$ -- 204
+int.to.str$ -- 25
+missing$ -- 193
 newline$ -- 103
 num.names$ -- 51
-pop$ -- 692
+pop$ -- 606
 preamble$ -- 1
-purify$ -- 82
+purify$ -- 85
 quote$ -- 0
-skip$ -- 545
+skip$ -- 633
 stack$ -- 0
-substring$ -- 412
-swap$ -- 1514
+substring$ -- 306
+swap$ -- 1325
 text.length$ -- 41
 text.prefix$ -- 0
-top$ -- 10
-type$ -- 243
-warning$ -- 4
-while$ -- 64
+top$ -- 8
+type$ -- 231
+warning$ -- 0
+while$ -- 41
 width$ -- 0
-write$ -- 197
-(There were 5 error messages)
+write$ -- 189
