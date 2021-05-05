@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{17}%
+\begin{thebibliography}{18}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -149,11 +149,19 @@
   {Smith-Joyner}}\ and\ \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
   {Walker}},\ }\href@noop {} {}\bibinfo {howpublished} {personal communication}
   (\bibinfo {year} {2020})\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {{First Author, et.al.}}(2019)}]{Wolf2019mask}%
+\bibitem [{\citenamefont {Wolf}\ \emph {et~al.}(2019)\citenamefont {Wolf},
+  \citenamefont {Sprague}, \citenamefont {Li}, \citenamefont {Smith-Joyner},\
+  and\ \citenamefont {Walker}}]{Wolf2019}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{First Author,
-  et.al.}}},\ }\href@noop {} {} (\bibinfo {year} {2019}),\ \bibinfo {note}
-  {details redacted for review}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~F.}\ \bibnamefont
+  {Wolf}}, \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Sprague}},
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Li}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Smith-Joyner}},\ and\ \bibinfo {author}
+  {\bibfnamefont {J.~P.}\ \bibnamefont {Walker}},\ }in\ \href@noop {} {\emph
+  {\bibinfo {booktitle} {Physics Education Research Conference 2019}}},\
+  \bibinfo {series and number} {PER Conference}\ (\bibinfo {address} {Provo,
+  UT},\ \bibinfo {year} {2019})\ pp.\ \bibinfo {pages} {657--663}\BibitemShut
+  {NoStop}%
 \bibitem [{\citenamefont {Walker}\ \emph {et~al.}(2019)\citenamefont {Walker},
   \citenamefont {Van~Duzor},\ and\ \citenamefont {Lower}}]{Walker2019}%
   \BibitemOpen
@@ -201,9 +209,9 @@
   {Eliceiri}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
   {Nature Methods}\ }\textbf {\bibinfo {volume} {9}},\ \bibinfo {pages} {671}
   (\bibinfo {year} {2012})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Edwards}\ \emph {et~al.}(2020)\citenamefont
-  {Edwards}, \citenamefont {Francia},\ and\ \citenamefont
-  {Van~Willigen}}]{ECUcovidSurveyRedacted}%
+\bibitem [{\citenamefont {Edwards}\ \emph
+  {et~al.}(2020{\natexlab{a}})\citenamefont {Edwards}, \citenamefont
+  {Francia},\ and\ \citenamefont {Van~Willigen}}]{ECUcovidSurveyRedacted}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
   {Edwards}}, \bibinfo {author} {\bibfnamefont {P.~L.}\ \bibnamefont
@@ -220,4 +228,17 @@
   \bibinfo {howpublished} {\url{https://jst.lucademian.com/info/}} (\bibinfo
   {year} {2020}),\ \bibinfo {note} {{Referenced} 2020-08-16}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Edwards}\ \emph
+  {et~al.}(2020{\natexlab{b}})\citenamefont {Edwards}, \citenamefont
+  {Francia},\ and\ \citenamefont {Van~Willigen}}]{ECUcovidSurvey}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Edwards}}, \bibinfo {author} {\bibfnamefont {P.~L.}\ \bibnamefont
+  {Francia}},\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Van~Willigen}},\ }\href
+  {https://surveyresearch.ecu.edu/wp-content/pv-uploads/sites/315/2018/06/ECU-Covid-19-Impact-Survey-Report-Students-FINAL-version-8.24.2020.pdf}
+  {\emph {\bibinfo {title} {{ECU Covid-19} Impact Survey: Reopening Impacts on
+  Students and Student Adherence to Pandemic Protective Practices.}}},\
+  \bibinfo {type} {Tech. Rep.}\ (\bibinfo  {institution} {ECU Center for Survey
+  Research},\ \bibinfo {year} {2020})\BibitemShut {NoStop}%
 \end{thebibliography}%
