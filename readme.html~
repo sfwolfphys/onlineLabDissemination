@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>readme.html</title>
+
+</head>
+
+<body>
+
+<h1>Online labs with ADI</h1>
+
+<p>Authors:  SFW and MWS</p>
+
+<p>This is the online repository for the paper on online labs that we want to write for <em>The Physics Teacher</em>.</p>
+
+<h2>TPT pages and resources</h2>
+
+<ul>
+<li><a href="https://www.aapt.org/publications/tptauthors.cfm">TPT Author guideline page</a></li>
+</ul>
+
+</body>
+</html>
