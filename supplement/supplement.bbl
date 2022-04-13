@@ -51,17 +51,27 @@
 \let\auto@bib@innerbib\@empty
 %</preamble>
 \bibitem [{\citenamefont {Smith-Joyner}\ and\ \citenamefont
-  {Walker}()}]{SmithJoyner2020}%
+  {Walker}(2020)}]{SmithJoyner2020}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
   {Smith-Joyner}}\ and\ \bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
-  {Walker}},\ }\href@noop {} {}\bibinfo {howpublished} {personal
-  communication}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {{First Author, et.al.}}(2019)}]{Wolf2019mask}%
+  {Walker}},\ }\href@noop {} {}\bibinfo {howpublished} {personal communication}
+  (\bibinfo {year} {2020})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Wolf}\ \emph {et~al.}(2019)\citenamefont {Wolf},
+  \citenamefont {Sprague}, \citenamefont {Li}, \citenamefont {Smith-Joyner},\
+  and\ \citenamefont {Walker}}]{Wolf2019}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{First Author,
-  et.al.}}},\ }\href@noop {} {} (\bibinfo {year} {2019}),\ \bibinfo {note}
-  {details redacted for review}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~F.}\ \bibnamefont
+  {Wolf}}, \bibinfo {author} {\bibfnamefont {M.~W.}\ \bibnamefont {Sprague}},
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Li}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Smith-Joyner}},\ and\ \bibinfo {author}
+  {\bibfnamefont {J.~P.}\ \bibnamefont {Walker}},\ }\bibfield  {title}
+  {\enquote {\bibinfo {title} {Introductory physics laboratory practical exam
+  development: Investigation design, explanation, and argument},}\ }in\
+  \href@noop {} {\emph {\bibinfo {booktitle} {Physics Education Research
+  Conference 2019}}},\ \bibinfo {series and number} {PER Conference}\ (\bibinfo
+  {address} {Provo, UT},\ \bibinfo {year} {2019})\ pp.\ \bibinfo {pages}
+  {657--663}\BibitemShut {NoStop}%
 \bibitem [{Note1()}]{Note1}%
   \BibitemOpen
   \bibinfo {note} {Because we want our fit values to have uncertainties, we
@@ -89,20 +99,20 @@
   {9}},\ \bibinfo {pages} {671--675} (\bibinfo {year} {2012})}\BibitemShut
   {NoStop}%
 \bibitem [{\citenamefont {Chabay}, \citenamefont {Scherer},\ and\ \citenamefont
-  {Sherwood}()}]{glowscript}%
+  {Sherwood}(2020)}]{glowscript}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
   {Chabay}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Scherer}},\
   and\ \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont {Sherwood}},\ }\href
   {https://www.glowscript.org} {\enquote {\bibinfo {title} {Glowscript.org},}\
-  }\bibinfo {howpublished} {\url{https://www.glowscript.org}},\ \bibinfo {note}
-  {{Referenced} 2020-08-16}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Demian}()}]{jstrack}%
+  }\bibinfo {howpublished} {\url{https://www.glowscript.org}} (\bibinfo {year}
+  {2020}),\ \bibinfo {note} {{Referenced} 2020-08-16}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Demian}(2020)}]{jstrack}%
   \BibitemOpen
   \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
   {Demian}},\ }\href@noop {} {\enquote {\bibinfo {title} {Motion tracking made
-  simple},}\ }\bibinfo {howpublished}
-  {\url{https://jst.lucademian.com/info/}},\ \bibinfo {note} {{Referenced}
+  simple},}\ }\bibinfo {howpublished} {\url{https://jst.lucademian.com/info/}}
+  (\bibinfo {year} {2020}),\ \bibinfo {note} {{Referenced}
   2020-08-16}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {McLoon}\ and\ \citenamefont
   {Berke}(2020)}]{mclber20}%

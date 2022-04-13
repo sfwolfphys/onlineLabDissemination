@@ -25,48 +25,45 @@ Control: production of article title (0) allowed
 Control: page (1) range
 Control: year (1) truncated
 Control: production of eprint (0) enabled
-Warning--empty year in SmithJoyner2020
-Warning--empty year in glowscript
-Warning--empty year in jstrack
 You've used 10 entries,
             6039 wiz_defined-function locations,
-            1669 strings with 16194 characters,
-and the built_in function-call counts, 6601 in all, are:
-= -- 450
-> -- 163
-< -- 42
-+ -- 60
-- -- 55
-* -- 982
-:= -- 720
-add.period$ -- 13
+            1674 strings with 16419 characters,
+and the built_in function-call counts, 7579 in all, are:
+= -- 510
+> -- 202
+< -- 49
++ -- 69
+- -- 64
+* -- 1148
+:= -- 794
+add.period$ -- 14
 call.type$ -- 10
 change.case$ -- 40
 chr.to.int$ -- 12
-cite$ -- 13
-duplicate$ -- 629
-empty$ -- 403
-format.name$ -- 77
-if$ -- 1177
+cite$ -- 10
+duplicate$ -- 721
+empty$ -- 480
+format.name$ -- 97
+if$ -- 1397
 int.to.chr$ -- 1
 int.to.str$ -- 17
-missing$ -- 84
+missing$ -- 94
 newline$ -- 76
 num.names$ -- 21
-pop$ -- 309
+pop$ -- 316
 preamble$ -- 1
-purify$ -- 36
+purify$ -- 39
 quote$ -- 0
-skip$ -- 221
+skip$ -- 257
 stack$ -- 0
-substring$ -- 148
-swap$ -- 564
-text.length$ -- 12
+substring$ -- 178
+swap$ -- 671
+text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 113
-warning$ -- 4
-while$ -- 27
+type$ -- 117
+warning$ -- 1
+while$ -- 29
 width$ -- 0
-write$ -- 111
-(There were 4 warnings)
+write$ -- 116
+(There was 1 warning)
